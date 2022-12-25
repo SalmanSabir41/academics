@@ -1525,6 +1525,9 @@ ul#nav li a:hover{
         position: relative;
         padding: 20px;
     }
+    .logo-phone{
+        display: none;
+    }
 
  }
 
